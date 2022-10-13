@@ -1,22 +1,19 @@
-# vue-crash
+# Todo Vuex
 
-## Todo Vuex
-```
-Vuex module:
 
-State Management Pattern:
+## State Management Pattern:
 
-# State -> todos
+### state -> todos
 
-# getters -> allTodos
+### getters -> allTodos
 
-# actions -> 
+### actions -> 
   - fetchTodos
   - addTodo
   - deleteTodo
   - filterTodos
  
-# mutations ->
+### mutations ->
   - newTodo
   - removeTodo
   
