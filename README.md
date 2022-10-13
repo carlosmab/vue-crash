@@ -1,19 +1,23 @@
 # vue-crash
 
-## Project setup
+## Todo Vuex
 ```
-yarn install
-```
+Vuex module:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+State Management Pattern:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# State -> todos
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# getters -> allTodos
+
+# actions -> 
+  - fetchTodos
+  - addTodo
+  - deleteTodo
+  - filterTodos
+ 
+# mutations ->
+  - newTodo
+  - removeTodo
+  
+    
